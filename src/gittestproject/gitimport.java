@@ -1,0 +1,10 @@
+package gittestproject;
+
+public class gitimport {
+
+	public static void main(String[] args)
+	{
+		System.out.println("hello-world");
+		
+	}
+}
